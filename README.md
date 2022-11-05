@@ -8,7 +8,7 @@
 
 [Issues at this repository](https://github.com/serviceanimals/Nina/issues)
 
-[Pulls at this repository](https://github.com/serviceanimals/Nina/pulls)
+[Pull requests at this repository](https://github.com/serviceanimals/Nina/pulls)
 
-<!-- Nina README.md EOF -->
+<!-- serviceanimals/Nina/README.md EOF -->
 
